@@ -1,0 +1,108 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.generalGrid
+{
+	-fx-background-color: #7D9C9F;
+}
+
+.options-bar
+{
+    -fx-background-color: #7D9C9F;
+    -fx-background-size: 100%;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+    -fx-border-color: #873700;
+    -fx-border-width: 2px;
+    -fx-border-style: solid solid solid solid;
+}
+
+#optionsGrid
+{
+	-fx-text-alignment: right;
+}
+
+#optionsTitle
+{
+	-fx-fill:#DFEFF0;
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
+
+#optionsTxt
+{
+	-fx-fill:#DFEFF0;
+	-fx-font-size: 20px;
+}
+
+
+#top-field
+{
+    -fx-background-color: #38373C;
+    -fx-background-size: 100%;
+    -fx-border-radius: 0 0 10 10;
+    -fx-border-width: 2px;
+}
+
+.title {
+   -fx-font-size: 32px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #E60066;
+}
+
+.resultsTextTitle
+{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 30px;
+	-fx-color: #444;
+	-fx-padding: 0 0 0 0;
+  	-fx-font-weight: 100;
+  	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+  	-fx-fill:  #DFEFF0;
+}
+
+.title-1 {
+   	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 40px;
+	-fx-color: #444;
+	-fx-padding: 0 0 0 0;
+  	-fx-font-weight: 100;
+  	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+  	-fx-fill:  #DFEFF0;
+}
+
+.title-2 {
+   -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: 	#AD235E;
+}
+
+.title-3 {
+   -fx-font-size: 15px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #AD235E;
+}
+
+.check-box {
+   -fx-font-size: 13px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: black;
+   -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow"; 
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+    -fx-font-size: 15px;
+}
+
+.transparent-background
+{
+    -fx-background-color: transparent;
+}
