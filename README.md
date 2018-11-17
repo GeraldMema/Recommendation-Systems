@@ -1,5 +1,5 @@
 # Recommendation-Systems
-Improvement proposals output algorithms with multiple criteria based on collaborative filtering
+Improve the output of proposed algorithms with multiple criteria based on collaborative filtering
 
 ABSTRACT
 
